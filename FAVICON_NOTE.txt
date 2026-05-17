@@ -1,0 +1,11 @@
+FAVICON IMPLEMENTATION NOTE:
+
+To add the Centurion Bank logo as a favicon:
+
+1. Create a proper favicon.ico file with the Centurion Bank logo
+2. Place it in the root directory of the web application
+3. Add the following line to the <head> section of all HTML/JSP files:
+
+   <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+All pages have been designed with a placeholder for the favicon. Simply replace the favicon.ico file with the actual Centurion Bank logo in ICO format.
